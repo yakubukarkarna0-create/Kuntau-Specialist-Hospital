@@ -9,21 +9,15 @@
 
  
 
-  <a href="https://codewithsadee.github.io/doclab/"><strong>➥ Live Demo</strong></a>
+ 
 
 </div>
 
 <br />
 
-### Demo Screeshots
 
-![Doclab Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
