@@ -1,23 +1,23 @@
-Doclab - home
+Kuntau Specialist Hospital - home
 
-This is a madical html template made by codewithsadee
+
 
 
 
 #---------- HEADER ----------#
 
-alt = Doclab home
+alt = Kuntau Specialist Hospital home
 
-alt = Doclab home
+alt = Kuntau spcialist Hospital home
 
 aria-label = clsoe menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
 
 Home
-Doctors
-Services
+Our Doctors
+Our Services
 Blog
-Contact
+Contact US
 
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-facebook"></ion-icon>
@@ -28,18 +28,18 @@ Contact
 aria-label = open menu
 <ion-icon name="menu-outline"></ion-icon>
 
-Make Appointment
+Book Your Appointment
 
 
 
 #---------- HERO ----------#
 
-Welcome To Doclab
+Welcome To Kuntau Specialist Hospital
 
-Find Nearest
+Book a
 Doctor.
 
-Search doctors. clinics. hospitals. etc.
+Search doctors. hospitals. etc.
 
 Locations
 <ion-icon name="location"></ion-icon>
@@ -51,24 +51,41 @@ alt = hero banner
 
 
 
-#---------- SERVICE ----------#
+#---------- Our SERVICE ----------#
 
 alt = icon
 
-Psychiatry
-Lorem ipsum dolor sit amet, consectetur adipisicing
+General Outpatient
+Information to be provided soon 1
 
-aria-label = read more about psychiatry
+aria-label = read more about General Outpatient
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
-Gynecology
+Inpatient Care
 
-Pulmonology
+Specliast Consultant
 
-Orthopedics
+Antenatal Care
 
+Labor and Delivery
 
+Surgical Services
 
+Phermacy
+
+Laboratory Services
+
+Ultrasound Scan
+
+Special Care Baby Unit
+
+Intensive Care Unit
+
+Dental Services
+
+Opthalmology/Optometry
+
+NHIA Services
 
 #---------- ABOUT ----------#
 
@@ -76,22 +93,22 @@ About Us
 
 Experienced Workers
 
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam
+Information to be provided soon 2
 
-Vision
-Mission
-Strategy
+Our Vision
+Our Mission
+Our Strategy
 
-Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
+Information to be provided soon 2
 
 <ion-icon name="checkmark-circle-outline"></ion-icon>
-Sonsectetur adipisicing elit
+Information to be provided soon 3
 
-Exercitation ullamco laboris
+Information to be provided soon 4
 
-Eiusmod tempor incididunt
+Information to be provided soon 5
 
-Aolore magna aliqua
+Information to be provided soon 6
 
 alt = about banner
 
@@ -99,35 +116,35 @@ alt = about banner
 
 #---------- LISTING ----------#
 
-Doctors Listig
+Doctors Listing
 Browse by specialist
 
 alt = icon
 
 Psychiatry
-Porta velit
+Information to be provided soon 7
 
 Gynecology
-Mattis augue
+Information to be provided soon 8
 
 Pulmonology
-Mauris laoreet
+Information to be provided soon 9
 
 Orthopedics
-Convallis vulputate
+Information to be provided soon 10
 
 Pediatrics
-Posuere maecenas
+Information to be provided soon 11
 
 Osteology
-Nisi nullam
+Information to be provided soon 12
 
 
 
 #---------- BLOG ----------#
 
-News & Article
-Latest Articles
+News
+Latest News
 
 <ion-icon name="person-outline"></ion-icon>
 By Admin
@@ -135,16 +152,16 @@ By Admin
 <ion-icon name="folder-outline"></ion-icon>
 Specialist
 
-Could intermittent fasting reduce breast cancer
+Kuntau Specialist Hospital Commence Operation
 
-28 January, 2022
+28 March, 2026
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+Information to be provided soon 13
 
 Read More
 
 
-Give children more autonomy during the pandemic
+Take Care o your Liver
 
 How do binge eating and drinking impact the liver?
 
@@ -156,33 +173,33 @@ alt = Doclab home
 
 <ion-icon name="mail-open-outline"></ion-icon>
 Main Email :
-contact@website.com
+contact@ksh.com
 
 Inquiries :
-Info@mail.com
+Info@ksh.com
 
 <ion-icon name="call-outline"></ion-icon>
 
 Office Telephone :
-0029129102320
+080-----------
 
 Mobile :
-000 2324 39493
+080 ---- - ---
 
 About Us
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+Information to be provided soon 14
 
 <ion-icon name="map-outline"></ion-icon>
 
-2416 Mapleview Drive
-Tampa, FL 33634
+Dorayi Karama Along Karshen Waya
+Kano State, 7133634
 
-Services
+Our Services
 
 Conditions
 Listing
-How It Works
+How We Works
 What We Offer
 Latest News
 Contact Us
@@ -204,7 +221,7 @@ Subscribe
 
 Get the latest updates via email. Any time you may unsubscribe
 
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+&copy; Kuntau Specialist Hospital 2026 | All Rights Reserved by Ksh
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
